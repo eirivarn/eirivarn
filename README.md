@@ -1,5 +1,12 @@
 <!-- Header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Eirik%20Varnes&fontSize=48&fontAlignY=35&fontColor=111827&textBg=true)
+<h1 align="center">Eirik Varnes</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?size=26&pause=900&center=true&vCenter=true&width=520&height=40&lines=Robotics+%E2%80%A2+Control+%E2%80%A2+ML;Reliable+autonomy%2C+end+to+end"
+    alt="typing intro"
+  />
+</p>
 
 ### Hi, I’m Eirik 👋
 Robotics • Control • ML 
