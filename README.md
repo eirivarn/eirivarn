@@ -22,19 +22,21 @@ Robotics • Control • ML — I build reliable autonomy from modeling & simula
 
 <p align="center">
   <a href="https://github.com/eirivarn">
-<!-- balanced langs + hide notebooks + compact -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/
-?username=eirivarn
-&layout=compact
-&langs_count=8
-&size_weight=0.5
-&count_weight=0.5
-&hide=Jupyter%20Notebook,HTML,CSS" />
+    <!-- Public-only stats (more accurate on the shared instance) -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=eirivarn&show_icons=true&hide_border=true&custom_title=GitHub%20stats%20(public)&v=1"
+      height="150"
+    />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eirivarn&layout=compact&hide_border=true" height="150" />
+    <!-- Balanced top languages; hide noisy ones; tweak weights -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eirivarn&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook,HTML,CSS&v=1"
+      height="150"
+    />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/eirivarn?tab=repositories">See repositories →</a>
