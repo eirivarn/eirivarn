@@ -1,11 +1,7 @@
-<!-- Header banner -->
 <h1 align="center">Eirik Varnes</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=26&pause=900&center=true&vCenter=true&width=520&height=40&lines=Robotics+%E2%80%A2+Control+%E2%80%A2+ML;Reliable+autonomy%2C+end+to+end"
-    alt="typing intro"
-  />
+  <img src="https://raw.githubusercontent.com/gh-user-content/waves/main/wave-dark-1200x120.svg" alt="" />
 </p>
 
 ### Hi, I’m Eirik 👋
