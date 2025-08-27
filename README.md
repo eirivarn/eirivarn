@@ -1,8 +1,8 @@
 <!-- Header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Eirik%20Varnes&fontSize=44&fontAlignY=35&fontColor=f8f9fa&stroke=000000&strokeWidth=2)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Eirik%20Varnes&fontSize=48&fontAlignY=35&fontColor=111827&textBg=true)
 
 ### Hi, I’m Eirik 👋
-Robotics • Control • ML — I build reliable autonomy from modeling & simulation to real deployments.
+Robotics • Control • ML 
 
 - 🎓 Master’s student (Engineering & ICT, NTNU)  
 - 🤖 Focus: ROV control (LQR + observers), RL navigation, geospatial/3D tooling  
