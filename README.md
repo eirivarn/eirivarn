@@ -24,5 +24,9 @@ Robotics • Control • ML — I build reliable autonomy from modeling & simula
   <a href="https://github.com/eirivarn?tab=repositories">See repositories →</a>
 </p>
 
+<!-- GitHub Metrics -->
+![Metrics](https://metrics.lecoq.io/eirivarn?template=classic&base.community=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=8&languages.sections=most-used&isocalendar.duration=full-year)
+
+
 <!-- Footer wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
