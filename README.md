@@ -22,7 +22,14 @@ Robotics • Control • ML — I build reliable autonomy from modeling & simula
 
 <p align="center">
   <a href="https://github.com/eirivarn">
-    <img src="https://github-readme-stats.vercel.app/api?username=eirivarn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" />
+<!-- balanced langs + hide notebooks + compact -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/
+?username=eirivarn
+&layout=compact
+&langs_count=8
+&size_weight=0.5
+&count_weight=0.5
+&hide=Jupyter%20Notebook,HTML,CSS" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eirivarn&layout=compact&hide_border=true" height="150" />
